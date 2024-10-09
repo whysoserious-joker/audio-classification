@@ -15,8 +15,7 @@ The goal of audio classification is to enable machines to automatically recogniz
 
 
 ## Authors
-- [Siva Ram](https://github.com/KSiva199)
-- [Nipuni Senani](https://github.com/NipuniSdSR)
+-Rakesh Kanth kanthar@clarkson.edu
 
 
 
